@@ -1,0 +1,9 @@
+alias vim=$EDITOR
+alias vi=$EDITOR
+
+alias neofetch=fastfetch
+alias docker=podman
+
+alias screen='TERM=xterm-256color screen'
+alias ssh='TERM=xterm-256color ssh'
+
