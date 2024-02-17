@@ -1,5 +1,4 @@
-alias vim=$EDITOR
-alias vi=$EDITOR
+alias vi=vim
 
 alias neofetch=fastfetch
 alias docker=podman
