@@ -4,8 +4,6 @@ return {
       { "williamboman/mason.nvim", config = true },
       "williamboman/mason-lspconfig.nvim",
 
-      { "j-hui/fidget.nvim", opts = {} },
-
-      "folke/neodev.nvim",
+      "folke/neodev.nvim", -- nvim lua API helper
    },
 }

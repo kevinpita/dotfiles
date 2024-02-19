@@ -1,0 +1,5 @@
+require("config.plugins.telescope")
+require("config.plugins.treesitter")
+require("config.plugins.lsp")
+require("config.plugins.autocompletion")
+require("config.plugins.whichkey")
