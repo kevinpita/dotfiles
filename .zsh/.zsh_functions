@@ -1,0 +1,5 @@
+function role() {
+  ansible-galaxy role init "$1"
+  rm -r "$1/tests" "$1/meta"
+  rm "$1/README.md"
+}
