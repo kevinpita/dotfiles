@@ -1,5 +1,5 @@
 export EDITOR=nvim
 export GOPATH=$HOME/go
-export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOPATH/bin:$HOME/.local/bin
 export GPG_TTY=$(tty)
 

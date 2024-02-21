@@ -27,6 +27,7 @@ zinit light-mode for \
 ### End of Zinit's installer chunk
 
 source ~/.zsh/.zsh_plugins
+source ~/.zsh/.zsh_functions
 source ~/.zsh/.zsh_aliases
 
 [[ ! -f ~/.zsh/.p10k.zsh ]] || source ~/.zsh/.p10k.zsh
