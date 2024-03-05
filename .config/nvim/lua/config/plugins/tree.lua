@@ -13,4 +13,4 @@ require("nvim-tree").setup({
    },
 })
 
-vim.keymap.set("n", "<leader>t", ":NvimTreeToggle<cr>", { desc = "[T]oggle tree view" })
+vim.keymap.set("n", "<leader>t", ":NvimTreeToggle<cr>", { desc = "[T]ree view", silent = true })
