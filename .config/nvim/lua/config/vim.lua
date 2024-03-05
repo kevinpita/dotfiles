@@ -20,3 +20,7 @@ vim.o.completeopt = "menuone,noselect"
 vim.wo.number = true
 vim.wo.wrap = false
 vim.wo.signcolumn = "yes"
+
+-- nvim-tree requirement.
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
