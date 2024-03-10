@@ -21,5 +21,8 @@ vim.defer_fn(function()
       auto_install = true,
       sync_install = false,
       ignore_install = {},
+      highlight = {
+         enable = true,
+      },
    })
 end, 0)
