@@ -3,4 +3,6 @@ zinit light fdellwing/zsh-bat
 zinit ice depth=1; zinit light romkatv/powerlevel10k
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-syntax-highlighting
+zinit light darvid/zsh-poetry
+zinit light marlonrichert/zsh-autocomplete
 
