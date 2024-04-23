@@ -3,3 +3,7 @@ function role() {
   rm -r "$1/tests" "$1/meta"
   rm "$1/README.md"
 }
+
+function license() {
+  license-generator --author "Kevin Pita" --project $1 GPL
+}
