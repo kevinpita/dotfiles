@@ -29,5 +29,6 @@ zinit light-mode for \
 source ~/.zsh/plugins
 source ~/.zsh/functions
 source ~/.zsh/aliases
+source ~/.zsh/keybindings
 
 [[ ! -f ~/.zsh/.p10k.zsh ]] || source ~/.zsh/.p10k.zsh
