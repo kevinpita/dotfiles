@@ -1,0 +1,13 @@
+[user]
+    name = Kevin Pita
+    email = gitkevin@pm.me
+    signingkey = key::ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA4Tyr3F6c6gFjZaKUNsPy8r/pAdRgC3eulcsHJA4W4D
+[commit]
+    gpgsign = true
+[gpg]
+    format = ssh
+[init]
+    defaultBranch = main
+[gpg "ssh"]
+    allowedSignersFile = /home/kevin/.ssh/allowed_signers
+
